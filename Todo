@@ -6,3 +6,4 @@ add end turn button, automate pitch tucking?
 look at token handling
 look at counter handling
 update life counter to work with vr controls (buttons?), look at setting starting value based on hero selection
+refactor dfc handling (esp chi/transcend)
