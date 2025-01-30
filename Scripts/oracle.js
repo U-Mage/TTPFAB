@@ -9,7 +9,7 @@ const browser = new WebBrowser();
 
 const self = refObject;
 refObject.getURL = function () {
-  return self.getSavedData("url") || "https://scryfall.com";
+  return self.getSavedData("url") || "https://cards.fabtcg.com";
 };
 refObject.setURL = function (url) {
   self.setSavedData(url, "url");
