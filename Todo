@@ -1,0 +1,7 @@
+Add fab card back
+add holders for equipment, hero, weapons, gy, banished, arsenal, pitch
+point deck imports to fabrary
+refactor card fetching to use fab json (looseleaftea) or typescript (fabrary) for data, then images from properties
+add end turn button, automate pitch tucking?
+look at token handling
+look at counter handling
